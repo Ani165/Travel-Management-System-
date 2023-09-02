@@ -1,1 +1,2 @@
-# Travel-Management-System-
+# Travel-Management-System:-
+  This project encompasses a wide array of features aimed at efficiently managing various aspects of travel planning and booking. It offers functionalities such as itinerary creation, booking management, customer communication, and financial tracking. The system assists in managing travel packages, accommodations, transportation, and activities. It allows agents to create customized itineraries, handle bookings seamlessly, and communicate with customers effectively.
